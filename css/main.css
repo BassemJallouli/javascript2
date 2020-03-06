@@ -1,0 +1,20 @@
+*
+{
+    background: white;
+}
+.grey-text
+{
+    color: darkgray;
+}
+.salmon-text
+{
+    color: salmon;
+}
+.indigo-text
+{
+    color:blue;
+}
+.big-text
+{
+    font-size: 2.25rem;
+}
